@@ -55,3 +55,13 @@ python dashboard.py
 📊 More advanced data insights
 
 ☁️ Cloud deployment
+
+
+
+![Screenshot 2025-02-17 135417](https://github.com/user-attachments/assets/73e29a22-a7a6-4806-9d30-ba8b9c601c4a)
+
+![Screenshot 2025-02-17 135436](https://github.com/user-attachments/assets/b19a62f2-fe0a-4a37-92d7-f8517b3ec4e6)
+
+
+![Screenshot 2025-02-17 135452](https://github.com/user-attachments/assets/7f60ec35-ec8a-4180-a930-d27d6d751d12)
+
